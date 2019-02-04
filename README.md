@@ -10,7 +10,6 @@ You can manually change these two values:
     & change the value of OEMData to "43 00 08 10 19 00 00 00"
 4. You're done and you can play now
 
-But since you need to do this everytime after you play PC2 and change to almost any other game where you want to use your wheel, you can just use my little programm. It's probably asking for the permission to start as admin. Don't worry source code is in here aswell if you don't trust me.
-
+But since you need to do this everytime after you play PC2 and change to almost any other game where you want to use your wheel, you can just use my little programm. It's probably asking for the permission to start as admin. 
 So if you use my programm instead of doing it manually,
 #### start the G29Fix.exe and you're ready to play
